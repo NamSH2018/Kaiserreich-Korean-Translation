@@ -324,7 +324,7 @@ AUS_the_new_Empire_desc:0 "오스트리아는 단순히 지리적 영역이나 �
 
 ### Status Quo branch
 
-AUS_cisleithanian_development_scheme:0 "시슬라이타니아(오스트리아령) 개발 계획"
+AUS_cisleithanian_development_scheme:0 "시스라이타니아(오스트리아령) 개발 계획"
 AUS_cisleithanian_development_scheme_desc:0 "시스라이타니아 개발 계획은 단순히 헝가리가 우리를 추월하는 것을 차단하는것뿐만 아니라, 시스라이타니아의 여러 지역을 서로 더 가깝게 만들고 경제적으로 제국의 발전된 지역과 동등한 수준으로 끌어 올리는 것을 목표로합니다."
 
 AUS_the_illyrian_suedbahn:0 "일리리아 지역과 쉬드반(Südbahn)철도 연결"
@@ -375,7 +375,7 @@ AUS_drastic_measures_desc:0 "진행중인 전쟁으로 중앙 정부가 어려�
 AUS_still_their_king:0 "우리는 아직도 그들의 왕이다"
 AUS_still_their_king_desc:0 "헝가리는 그들이 원하는 것을 주장 할 수 있고, 우리는 여전히 그들의 종주국이며, 현재 우리는 전쟁과 외부 위협에 처해있다. 어떻게 끝날지라도, 우리는 지금 당장은 이 차이점은 내버려둘 필요가있다."
 
-AUS_cisleithania_centralised:0 "시슬라이타니아(오스트리아령)의 중앙 집권화"
+AUS_cisleithania_centralised:0 "시스라이타니아(오스트리아령)의 중앙 집권화"
 AUS_cisleithania_centralised_desc:0 "우리의 계속되는 개혁으로 제국이 한데 모이고 있습니다. 물론 헝가리는 여전히 저항하고 있지만 오스트리아는 그 어느 때보 다 더 연합되어 있다는 것을 부정 할 수는 없습니다."
 
 AUS_ausgleich_1947:0 "1947 년의 대타협 재협상"
@@ -439,8 +439,8 @@ AUS_am_followup_5_desc:0 "세계로"
 AUS_us_approaching_the_autonomies:0 "자치권 부여를 시작하다."
 AUS_us_approaching_the_autonomies_desc:0 "자치권 부여를 시작하다."
 
-AUS_us_deal_with_Cisleithania:0 "시슬라이타니아(오스트리아령) 통합"
-AUS_us_deal_with_Cisleithania_desc:0 "시슬라이타니아(오스트리아령) 통합"
+AUS_us_deal_with_Cisleithania:0 "시스라이타니아(오스트리아령) 통합"
+AUS_us_deal_with_Cisleithania_desc:0 "시스라이타니아(오스트리아령) 통합"
 
 AUS_us_deal_with_Hungary:0 "헝가리와의 거래"
 AUS_us_deal_with_Hungary_desc:0 "헝가리라는 가시는 어떻게든 제거되어야 합니다. 우리는 그들이 지금 10 년 동안 요구하고있는 배상을 준비했습니다."
@@ -500,8 +500,8 @@ POLITICS_KARL_DESC:0 "1914년 삼촌인 프란츠 페르디난트가 암살당�
 POLITICS_OTTO_DESC:0 "오토 폰 합스부르크-로트링겐 황제가 오스트리아의 군주인 그의 아버지 카를의 뒤를 이었습니다. 오토는 젊은 나이에도 불구하고, 서로 다른 민족들이 하나의 국가 정체성을 공유하는 통합 제국의 원대한 야망을 가지고 있습니다. 그의 간결한 연설과, 시끌벅적한 연애 관계, 그리고 청년 특유의 매력이 언론의 관심을 끌었고 오토의 인기는 절정에 달했습니다."
 
 ### Traits ###
-ganz_danubius_submarine:0 "Ganz Danubius Submarine Facilities"
-steyr_arms_facility:0 "Steyr Arms Facility"
+ganz_danubius_submarine:0 "Ganz Danubius 잠수함 공장"
+steyr_arms_facility:0 "Steyr 무기 공장"
 skoda_tank_factories:0 "스코다 전차 공장"
 phoenix_fighters:0 "Phönix Fighter Works"
 
